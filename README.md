@@ -65,11 +65,11 @@ If you use the datasets in this repository, please cite the associated research 
 
 ### Associated Research Article
 
-**Multiclass Depression Detection from Prefrontal EEG Signals Using Deep Learning Models.**
+> Multiclass Depression Detection from Prefrontal EEG Signals Using Deep Learning Models.
 
 ### MODMA Dataset
 
-Cai, H. et al. A multi-modal open dataset for mental-disorder analysis. *Scientific Data* 9, 178 (2022).
+> Cai, H. et al. A multi-modal open dataset for mental-disorder analysis. *Scientific Data* 9, 178 (2022).
 
 **DOI:** https://doi.org/10.1038/s41597-022-01211-x
 
